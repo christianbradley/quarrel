@@ -1,12 +1,12 @@
-# Foo
+# Quarrel
 
-TODO: Write a gem description
+Simple named parameters for Ruby
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'foo'
+    gem 'quarrel'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install foo
+    $ gem install quarrel
 
 ## Usage
 
