@@ -1,3 +1,4 @@
+require 'quarrel/version'
 require 'quarrel/parser'
 require 'quarrel/parameter'
 
